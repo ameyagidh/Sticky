@@ -20,3 +20,4 @@ Run the application in android studio
 
 ## Screenshots:- 
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/65457905/190886067-b5bbe3a9-2363-4253-b31c-ba70b02056bd.gif)
